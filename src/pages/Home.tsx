@@ -37,7 +37,7 @@ const Home = () => {
           <h1 className="text-[72px] pt-[14px] font-bold leading-[80px]">
             Invoicing Made Easy for
             <br /> Small{" "}
-            <span className="bg-primary text-white px-2">Businesses</span>
+            <span className="bg-primary my-0 text-white px-2">Businesses</span>
           </h1>
           <h1 className="mt-[24px] text-subtitle">
             Simplify your finances and unleash the power of effortless invoicing
@@ -127,7 +127,7 @@ const Home = () => {
               All-in-one platform for your <br /> invoicing needs
             </h1>
             <h1 className=" font-light text-white text-sm mt-4 mb-[56px]">
-              All the invoicing features neede are present.All the invoicing
+              All the invoicing features needs are present.All the invoicing
               features
               <br /> needed are present
             </h1>
@@ -176,7 +176,7 @@ const Home = () => {
             <PaymentProviderCard
               imagePath={stripe}
               title="Stripe"
-              description="You can easily integrate your stripe account and start receiving payments to account without any hassel"
+              description="You can easily integrate your stripe account and start receiving payments to account without any hassle"
             />
             <PaymentProviderCard
               imagePath={payPal}
@@ -199,7 +199,7 @@ const Home = () => {
 
       <section className="w-full mx-auto bg-primary">
         <h1 className="text-white text-center text-4xl font-bold py-[70px]">
-          Stop chasing your clients <br /> around bruda
+          Stop chasing your clients <br /> around
         </h1>
       </section>
     </>
